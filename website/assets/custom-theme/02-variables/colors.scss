@@ -1,0 +1,26 @@
+@mixin light-palette {
+  // the DLP has a bold purple theme
+  --theme-color--brand: hsla(330, 74%, 49%, 0.95);
+  --theme-color--brand-shade: hsla(258, 61%, 28%, 0.2);
+  --theme-color--pop: hsla(258, 61%, 28%, 0.99);
+  --theme-color--accent: hsla(258, 61%, 28%, 0.99);
+  // key
+  --hue: 258;
+  --sat: 40%;
+  --lum: 90%;
+  --alpha: 0.95;
+}
+
+@mixin dark-palette {
+  --hue: 258;
+  --theme-color--brand: hsla(330, 74%, 49%, 0.95);
+  --theme-color--accent: hsla(330, 74%, 49%, 0.95);
+  --theme-color--pop: hsl(145, 100%, 98%);
+}
+
+:root {
+  @include light-palette();
+  @media (prefers-color-scheme: dark) {
+    @include dark-palette();
+  }
+}

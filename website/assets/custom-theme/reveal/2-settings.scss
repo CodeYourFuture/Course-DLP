@@ -1,0 +1,49 @@
+// Base settings for all themes that can optionally be
+// overridden by the super-theme
+// Background of the presentation
+$backgroundColor: var(--theme-color--pop);
+
+// Primary/body text
+$mainFont: var(--theme-font--display);
+$mainFontSize: var(--theme-type-size--3);
+$mainColor: var(--theme-color--paper);
+
+// Vertical spacing between blocks of text
+$blockMargin: var(--theme-spacing--gutter);
+
+// Headings
+$headingMargin: 0 0 $blockMargin 0;
+$headingFont: var(--theme-font--display);
+$headingColor: var(--theme-color--brand);
+$headingLineHeight: 1.2;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingTextShadow: none;
+$headingFontWeight: 800;
+$heading1TextShadow: $headingTextShadow;
+
+$heading1Size: calc(var(--theme-type-size--1) * 1.5);
+$heading2Size: var(--theme-type-size--1);
+$heading3Size: var(--theme-type-size--2);
+$heading4Size: var(--theme-type-size--3);
+
+$codeFont: monospace;
+
+// Links and actions
+$linkColor: var(--theme-color--accent);
+$linkColorHover: var(--theme-color--accent-shade);
+
+// Text selection
+$selectionBackgroundColor: var(--theme-color--pop);
+$selectionColor: var(--theme-color--accent);
+
+// Colors used for UI elements that are overlaid on top of
+// the presentation
+$overlayElementBgColor: 258, 258, 258;
+$overlayElementFgColor: 0, 0, 0;
+
+// Generates the presentation background, can be overridden
+// to return a background image or gradient
+@mixin bodyBackground() {
+  background: $backgroundColor;
+}

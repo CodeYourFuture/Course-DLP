@@ -1,0 +1,10 @@
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240819115309-8a4e928ef020 h1:8xrtcFga13gL8yBrxIdFWoagl74bftptzJypSIc7ZG8=
+github.com/CodeYourFuture/curriculum/common-content v0.0.0-20240819115309-8a4e928ef020/go.mod h1:e3J+XphCBJJ8kf6S9ykVxNY1VKPWJoYuDFXEizlDpCI=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240819115309-8a4e928ef020 h1:mH7BH5cosmypF8E7CGmCjDgyP3OQXh22AUB3Q+fAH2A=
+github.com/CodeYourFuture/curriculum/common-theme v0.0.0-20240819115309-8a4e928ef020/go.mod h1:kzt+J4JYp5C3GD1dX0rf7vY5fsTUc6Drrn+7p7pjmLg=
+github.com/CodeYourFuture/curriculum/org-cyf-theme v0.0.0-20240819115309-8a4e928ef020 h1:5ah2YTtIHDxjHpgtf99aVQpdinMOTwylDEmVbnvmxWs=
+github.com/CodeYourFuture/curriculum/org-cyf-theme v0.0.0-20240819115309-8a4e928ef020/go.mod h1:Wv6VAMOIp5v0eZiHWSGzanDAIfK+prnnPK0hUPeFvwk=
+github.com/dzello/reveal-hugo v0.0.0-20240121164136-5e38035fe41f h1:UPALL8009oW6MhGR7iwp5Ew/wcSmLILh3e9MsSsz6vg=
+github.com/dzello/reveal-hugo v0.0.0-20240121164136-5e38035fe41f/go.mod h1:9mgTYgEkMfnc36vaNSvk3xRedXIv2qXjejlugfwyb3o=
+github.com/jerdog/reveal-hugo-template v0.0.0-20240523225358-f643c1d48b0a h1:DUYZeg8FD/+Nr3xCY7JQ6QNbrdlqTXaB8sKegTPnEpI=
+github.com/jerdog/reveal-hugo-template v0.0.0-20240523225358-f643c1d48b0a/go.mod h1:5oAWm0cn3zy6tRoZ60VqhGMAkmNEn2IQoLgJyl+kaqc=

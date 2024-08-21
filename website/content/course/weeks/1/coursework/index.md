@@ -1,4 +1,5 @@
 +++
+type="page"
 title = 'coursework'
 layout = 'backlog'
 emoji= '🥞'

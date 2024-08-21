@@ -1,4 +1,5 @@
 +++
+type="page"
 title = 'Week 1'
 layout = 'sprint'
 emoji= '👋🏾'

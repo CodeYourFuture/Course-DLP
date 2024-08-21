@@ -1,4 +1,5 @@
 +++
+type="page"
 title = 'success'
 layout = 'success'
 emoji= '✅'

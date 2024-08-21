@@ -6,7 +6,7 @@ $backgroundColor: hsla(258, 61%, 28%, 0.99);
 $mainColor: hsl(250, 55%, 96%);
 $headingColor: hsla(330, 74%, 49%, 0.95);
 
-$mainFontSize: 78px;
+$mainFontSize: 64px;
 $mainFont: "Raleway", system-ui, sans-serif;
 $headingFont: "Raleway", system-ui, sans-serif;
 $headingTextShadow: none;
@@ -36,4 +36,16 @@ section.has-light-background {
 
 .reveal pre {
   margin: 50px auto;
+}
+
+.reveal section {
+  h2 {
+    text-align: left;
+  }
+  ol,
+  ol li {
+    display: block;
+    text-align: left;
+    margin: 0 auto auto 0;
+  }
 }

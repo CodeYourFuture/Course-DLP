@@ -29,7 +29,7 @@ isHTML = true
 ## if this mod doesn't work for you, I also built a CYF implementation
 # but it's probably better to use the predone thing if pos
 
-theme = ["github.com/dzello/reveal-hugo", "github.com/CodeYourFuture/curriculum/org-cyf-theme"]
+theme = ["github.com/CodeYourFuture/curriculum/org-cyf-theme", "github.com/dzello/reveal-hugo"]
 
 [params]
   [params.logo]

@@ -1,0 +1,39 @@
+@import "reveal-js/dist/theme/template/mixins";
+@import "reveal-js/dist/theme/template/settings";
+
+$backgroundColor: hsla(258, 61%, 28%, 0.99);
+
+$mainColor: hsl(250, 55%, 96%);
+$headingColor: hsla(330, 74%, 49%, 0.95);
+
+$mainFontSize: 78px;
+$mainFont: "Raleway", system-ui, sans-serif;
+$headingFont: "Raleway", system-ui, sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingFontWeight: 700;
+$linkColor: hsla(330, 74%, 49%, 0.95);
+
+$heading1Size: 120px;
+$heading2Size: 80px;
+$heading3Size: 32px;
+$heading4Size: 24px;
+
+@import "reveal-js/dist/theme/template/theme";
+
+section.has-light-background {
+  &,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: hsla(258, 88%, 27%, 0.95);
+  }
+}
+
+.reveal pre {
+  margin: 50px auto;
+}

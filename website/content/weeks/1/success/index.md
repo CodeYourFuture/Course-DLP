@@ -1,9 +1,9 @@
 +++
-type="page"
+type="Success1"
 title = 'success'
 layout = 'success'
 emoji= '✅'
-menu_level = ['module']
+menu_level = ['sprint']
 weight = 4
 +++
 

@@ -1,5 +1,5 @@
 +++
-type="page"
+type="WeeksHome"
 title = 'Our course'
 description = 'The plan for each week of the course'
 layout = 'module'

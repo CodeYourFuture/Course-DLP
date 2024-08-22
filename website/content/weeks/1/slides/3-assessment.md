@@ -1,5 +1,5 @@
 +++
-type="page"
+type="Slides1Partial"
 title = 'Entry Assessment'
 weight = 3
 

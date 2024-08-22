@@ -1,5 +1,5 @@
 +++
-type="page"
+type="Slides1"
 title = 'Slides'
 description = 'Look ahead to see what we will cover this week'
 emoji= '📽️'
@@ -63,6 +63,8 @@ Please ask our volunteers for help.
    {{%/fragment%}}
 
 ---
+
+{{< slide template="topic" >}}
 
 ## Topics
 

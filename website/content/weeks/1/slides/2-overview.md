@@ -1,5 +1,5 @@
 +++
-type="page"
+type="Slides1Partial"
 title = 'Section: Overview'
 description = 'Look ahead to see what we will cover on this course'
 weight = 2

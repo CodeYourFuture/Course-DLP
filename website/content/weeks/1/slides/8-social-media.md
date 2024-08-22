@@ -1,5 +1,5 @@
 +++
-type="page"
+type="Slides1Partial"
 title = 'Section: Social Media'
 description = 'Learning about social media'
 weight = 8

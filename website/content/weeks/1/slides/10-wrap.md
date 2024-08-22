@@ -1,9 +1,11 @@
 +++
-type="object"
+type="Slides1Partial"
 title = 'Section: Wrap-up'
 description = 'Look ahead to see what we will cover next week'
 weight = 10
 +++
+
+{{< slide template="topic" >}}
 
 ### What we’ll learn next week
 

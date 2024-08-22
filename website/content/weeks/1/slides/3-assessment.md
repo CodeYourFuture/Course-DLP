@@ -1,5 +1,5 @@
 +++
-type="object"
+type="Slides1Partial"
 title = 'Entry Assessment'
 weight = 3
 

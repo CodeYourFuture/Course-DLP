@@ -1,5 +1,5 @@
 +++
-type="object"
+type="Slides1Partial"
 title = 'Section: Symbols'
 description = ''
 weight = 4

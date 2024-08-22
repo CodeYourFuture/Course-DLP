@@ -1,14 +1,17 @@
 import {Model} from "@stackbit/types";
-
-export const pageModel: Model = {
-  name: "Page",
+// this doesn't work in Stackbit and I have no idea why
+// and neither do they apparently
+// so we cannot inherit this model in other models
+export const Base: Model = {
+  name: "Base",
+  description: "Base model for all pages containing all common fields",
   type: "object",
   fields: [
-    {name: "title", type: "string", required: true},
-    {name: "description", type: "string", required: false},
-    {name: "emoji", type: "string", required: false},
+    {name: "type", type: "string", required: true, hidden: true},
+    {name: "title", type: "string", required: true, default: "My New Page"},
+    {name: "description", type: "string"},
+    {name: "emoji", type: "string", required: false, default: "🤖"},
     {name: "weight", type: "number", required: false},
-    {name: "type", type: "string", required: true},
     {
       name: "blocks",
       type: "list",

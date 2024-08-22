@@ -1,5 +1,5 @@
 +++
-type="object"
+type="Slides1Partial"
 title = 'Section: Apps'
 description = 'Using apps and social media'
 weight = 7

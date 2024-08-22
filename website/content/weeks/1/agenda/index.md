@@ -1,5 +1,5 @@
 +++
-type="page"
+type="Agenda1"
 title = 'Agenda'
 layout = 'day-plan'
 emoji= '📅'

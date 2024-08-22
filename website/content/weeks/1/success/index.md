@@ -1,5 +1,5 @@
 +++
-type="page"
+type="Success1"
 title = 'success'
 layout = 'success'
 emoji= '✅'

@@ -1,5 +1,5 @@
 +++
-type="page"
+type="Week1Home"
 title = 'Week 1'
 layout = 'sprint'
 emoji= '👋🏾'

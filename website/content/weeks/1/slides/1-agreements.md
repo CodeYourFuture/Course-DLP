@@ -1,5 +1,5 @@
 +++
-type="object"
+type="Slides1Partial"
 title = 'Slides'
 description = 'Section: Agreements' 
 weight = 1

@@ -6,6 +6,8 @@ weight = 8
 
 +++
 
+{{< slide template="topic" >}}
+
 # Social Media
 
 ---

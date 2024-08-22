@@ -5,6 +5,8 @@ description = 'Look ahead to see what we will cover on this course'
 weight = 2
 +++
 
+{{< slide template="topic" >}}
+
 # 🗺️ Overview
 
 ---

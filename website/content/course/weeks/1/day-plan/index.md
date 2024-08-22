@@ -10,12 +10,6 @@ noRegister=false
 name="Energiser"
 src="blocks/energiser"
 [[blocks]]
-name="PD Placeholder to be replaced with PD link"
-src="blocks/pd-placeholder"
-[[blocks]]
-name="Morning break"
-src="blocks/morning-break"
-[[blocks]]
 name="Placeholder Workshop"
 src="https://github.com/CodeYourFuture/CYF-Workshops/tree/main/template"
 time="60"
@@ -26,10 +20,6 @@ src="blocks/lunch"
 name="Study Group"
 src="blocks/study-group"
 time="90"
-[[blocks]]
-name="Code Review"
-src="https://github.com/CodeYourFuture/Module-Template/pulls"
-time="0"
 [[blocks]]
 name="Afternoon break"
 src="blocks/afternoon-break"

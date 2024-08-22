@@ -5,13 +5,7 @@ description = ''
 weight = 4
 +++
 
-# 🌐 The Internet
-
-{{% speaker-notes %}}
-GS1 Trainees understand the main UI iconography
-{{% /speaker-notes %}}
-
----
+{{< slide template="topic" >}}
 
 # 🚺 Key Symbols / Icons and your phone
 

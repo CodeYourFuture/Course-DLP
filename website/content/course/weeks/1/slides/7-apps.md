@@ -5,6 +5,8 @@ description = 'Using apps and social media'
 weight = 7
 +++
 
+{{< slide template="topic" >}}
+
 # 📱 Apps
 
 ---

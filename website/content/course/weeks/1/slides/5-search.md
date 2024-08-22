@@ -5,6 +5,8 @@ description = ''
 weight = 5
 +++
 
+{{< slide template="topic" >}}
+
 # Browsers & Search Engines
 
 ---

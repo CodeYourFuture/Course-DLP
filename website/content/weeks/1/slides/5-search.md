@@ -5,7 +5,7 @@ description = ''
 weight = 5
 +++
 
-{{< slide template="topic" >}}
+{{< slide template="topic" id="search">}}
 
 # Browsers & Search Engines
 
@@ -19,11 +19,11 @@ The internet is like a giant network of connected computers and devices. It help
 
 ### 🎯 Learning objectives
 
-- 🎯 You can accurately define and differentiate between a browser, the internet, and a search engine when asked to verbally explain the differences.
-- 🎯 You can perform a successful keyword search using Google search engine to find a specified information resource.
-- 🎯 You can take and save a screenshot on their device with no assistance.
-- 🎯 You understand searching to self-help with technical issues and troubleshooting.
-- 🎯 You are introduced to Generative AI tools and how to use them.
+- 🎯 Differentiate between a browser, the internet, and a search engine when asked to verbally explain the differences.
+- 🎯 Use Google search engine to find a specified information resource.
+- 🎯 Take and save a screenshot on their device with no assistance.
+- 🎯 Self-help with technical issues and troubleshooting with search.
+- 🎯 Use Generative AI tools.
 
 {{% speaker-notes %}}
 GS1 Trainees understand the main UI iconography
@@ -71,7 +71,11 @@ Using a search engine of your choice, enter your search query into the search ba
 
 Google search a recipe for banana bread
 
-## Google search a recipe for banana bread with no sugar
+{{%fragment%}}
+
+with no sugar
+
+{{%/fragment%}}
 
 ---
 
@@ -85,11 +89,11 @@ Add Google Search widget to your screen
 
 {{<slide template="activity">}}
 
-### Activity - SELF HELP!
+### Activity: Self Help!
 
-Using Google Search widget, search ‘how to take a screenshot with your phone’
-Go through the steps of how to take a screenshot on your phone.
-Share your screenshot on the WhatsApp group
+1. Using Google, **search** ‘how to take a screenshot with your phone’
+2. **Follow** the steps
+3. **Share** your screenshot on the WhatsApp group
 
 ---
 

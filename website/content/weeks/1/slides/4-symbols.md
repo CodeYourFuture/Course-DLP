@@ -5,7 +5,7 @@ description = ''
 weight = 4
 +++
 
-{{< slide template="topic" >}}
+{{< slide template="topic" id="symbols">}}
 
 # 🚺 Symbols
 
@@ -19,7 +19,7 @@ The internet is like a giant network of connected computers and devices. It help
 
 {{<slide template="objectives">}}
 
-## 🎯 Learning objectives
+### 🎯 Learning objectives
 
 🎯 You understand the main UI (user interface) iconography
 

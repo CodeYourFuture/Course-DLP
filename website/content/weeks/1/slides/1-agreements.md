@@ -5,7 +5,7 @@ description = 'Topic: Agreements'
 weight = 1
 +++
 
-{{<slide template="topic">}}
+{{<slide template="topic" id="agreements">}}
 
 # ⛑️ Community Safety
 
@@ -67,7 +67,7 @@ that does not mean we should be apathetic, it means it is easily ignored, and we
 
 ---
 
-## Harassment
+### Harassment
 
 We do not tolerate harassment at CodeYourFuture.
 Please report to a CYF Staff Member in your region.
@@ -85,7 +85,7 @@ We cannot make a complete list .It's dependent on other people's boundaries. The
 
 ---
 
-# How to report
+## How to report
 
 ### Community Safety team
 
@@ -140,7 +140,8 @@ How do we know what other people’s boundaries are?
 
 ---
 
-To get a certificate you need to:
+### To get a certificate you need to:
+
 {{% fragment %}}
 
 - Attend all 3 sessions
@@ -163,19 +164,19 @@ you can add to
 
 ---
 
-What can you expect from CYF while you are on this course?
+### What can you expect from CYF while you are on this course?
 
-- Support
-- Motivation
-- Guidance
+{{<frag c="Support," >}}
+{{<frag c="feedback," >}}
+{{<frag c="guidance" >}}
 
 ---
 
-What happens when these expectations are not met?
+### What happens when these expectations are not met?
 
-- {{<frag c="You will not get a certificate">}}
-- {{<frag c="You may be asked to leave the course">}}
-  {{% speaker-notes %}}
+{{<frag c="You will not get a certificate,">}}{{<frag c=" and you may be asked to leave the course">}}
+
+{{% speaker-notes %}}
 
 CYF: - trainee with feedback poorly on the surveys?
 {{% /speaker-notes %}}

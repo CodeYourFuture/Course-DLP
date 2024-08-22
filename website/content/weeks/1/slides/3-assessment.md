@@ -5,9 +5,9 @@ weight = 3
 
 +++
 
-{{< slide template="topic" >}}
+{{< slide template="topic" id="assessment">}}
 
-# Entry Assessment
+# ✅ Entry Assessment
 
 ---
 

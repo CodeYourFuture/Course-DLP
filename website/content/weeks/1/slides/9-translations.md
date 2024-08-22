@@ -5,7 +5,7 @@ description = 'Translate text between languages'
 weight = 9
 +++
 
-{{< slide template="section" >}}
+{{< slide template="topic" >}}
 
 # 💬 Translate
 

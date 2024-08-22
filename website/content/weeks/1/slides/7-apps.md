@@ -5,7 +5,7 @@ description = 'Using apps and social media'
 weight = 7
 +++
 
-{{< slide template="section" >}}
+{{< slide template="topic" id="apps">}}
 
 # 📱 Apps
 
@@ -26,15 +26,16 @@ Remove 1 app
 
 ### 🎯 Learning objectives
 
-- 🎯 You can successfully download one or more apps from the app store.
-- 🎯 You know how to summarize the key features, user ratings, and reviews for apps by reading the app descriptions and reviews in the app store
+- 🎯 Download one or more apps from the app store.
+- 🎯 summarize the key features, user ratings, and reviews for apps by reading the app descriptions and reviews in the app store
 - 🎯 You understand basics about the use of digital technologies and smartphones with some concrete examples (e.g. forms, QR codes).
-- 🎯 You can successfully launch specified downloaded apps.
-- 🎯 You can search for and find specified apps in the app store using relevant keywords.
-- 🎯 You can delete one or more specified apps.
-  {{% speaker-notes %}}
-  GS1 Trainees understand the main UI iconography
-  {{% /speaker-notes %}}
+- 🎯 Launch specified downloaded apps.
+- 🎯 search for and find specified apps in the app store using relevant keywords.
+- 🎯 Delete one or more specified apps.
+
+{{% speaker-notes %}}
+GS1 Trainees understand the main UI iconography
+{{% /speaker-notes %}}
 
 ---
 

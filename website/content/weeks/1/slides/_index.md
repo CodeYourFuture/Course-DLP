@@ -55,13 +55,13 @@ Please ask our volunteers for help.
 
 {{%fragment%}}
 
-1. ⛑️ Community Safety and Trainee Agreement
+1. ⛑️ [Community Safety and Trainee Agreement](#agreements)
    {{%/fragment%}}
    {{%fragment%}}
-2. 🗺️ Overview of the course
+2. 🗺️ [Overview of the course](#overview)
    {{%/fragment%}}
    {{%fragment%}}
-3. ✅ Entry assessment
+3. ✅ [Entry assessment](#assessment)
    {{%/fragment%}}
 
 ---
@@ -72,17 +72,17 @@ Please ask our volunteers for help.
 
 {{%fragment%}}
 
-1. 🚺 Symbols and icons
-1. 🔍 Browsing and searching
+1. 🚺 [Symbols and icons](#symbols)
+1. 🔍 [Browsing and searching](#search)
    {{%/fragment%}}
    {{%fragment%}}
-   > ☕ Break Time
+   > ☕ [Break Time](#break)
 
 {{%/fragment%}}
 
 {{%fragment%}}
 
-1. 📱 Apps
-1. 🧑🏾‍🤝‍🧑🏻 Social Media
-1. 💬 Translations
+1. 📱 [Apps](#apps)
+1. 🧑🏾‍🤝‍🧑🏻 [Social Media](#social-media)
+1. 💬 [Translations](#translations)
    {{%/fragment%}}

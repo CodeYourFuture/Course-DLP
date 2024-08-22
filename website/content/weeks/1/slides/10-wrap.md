@@ -33,4 +33,6 @@ At-home Assignment
 
 ---
 
-See you next week!
+{{<slide template="section">}}
+
+## 👋🏽 See you next week!

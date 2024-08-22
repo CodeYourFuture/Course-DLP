@@ -29,8 +29,8 @@ $linkColor: hsla(
 
 $heading1Size: 120px;
 $heading2Size: 80px;
-$heading3Size: 48px;
-$heading4Size: 24px;
+$heading3Size: 60px;
+$heading4Size: 30px;
 
 @import "reveal-js/dist/theme/template/theme";
 
@@ -59,7 +59,9 @@ section.has-light-background {
     text-align: left;
   }
   ol,
-  ol li {
+  ul,
+  ol li,
+  ul li {
     display: block;
     text-align: left;
     margin: 0 auto auto 0;
@@ -75,7 +77,6 @@ section.has-light-background {
 .reveal [data-template="section"] {
   > * {
     color: var(--theme-color--paper);
-    text-align: center;
   }
   h1,
   h2,
@@ -85,22 +86,17 @@ section.has-light-background {
   }
 }
 .reveal [data-template="objectives"] {
-  border: 30px solid var(--theme-color--pop);
 }
 .reveal [data-template="topic"] {
   > * {
     color: var(--theme-color--paper);
     text-align: center;
   }
-  h1,
-  h2,
-  h3,
-  h4 {
-    color: var(--theme-color--pop);
-  }
 }
-[data-template="activity"] {
-  border: 30px solid var(--theme-color--pop);
+.reveal [data-template="activity"] {
+  > * {
+    color: var(--theme-color--brand);
+  }
   h1,
   h2,
   h3,

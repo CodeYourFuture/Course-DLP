@@ -1,6 +1,6 @@
 +++
 type="Slides1Partial"
-title = 'Section: Social Media'
+title = 'Topic: Social Media'
 description = 'Learning about social media'
 weight = 8
 
@@ -12,12 +12,15 @@ weight = 8
 
 ---
 
-### Learning objectives
+{{< slide template="objectives" >}}
 
-You are able to identify the main features of popular social media platforms. Example: posting updates, sharing photos, commenting, liking/reacting to posts, and direct messaging.
-You are able to describe key best practices for creating content and using social media responsibly and safely regarding privacy, security, oversharing, and respectful interaction.
-You can correctly define the meaning of common social media icons used on platforms
-You understand the differences between social media platforms and communication tools
+### 🎯 Learning objectives
+
+- 🎯 Identify the main features of popular social media platforms.
+- 🎯 Describe using social media responsibly and safely.
+- 🎯 Define the meaning of common social media icons used on platforms
+- 🎯 Explain the differences between social media platforms and communication tools
+
 {{% speaker-notes %}}
 GS1 Trainees understand the main UI iconography
 
@@ -58,28 +61,36 @@ Common Social Media Icons
 
 ---
 
-### Privacy
+{{<slide template="section">}}
+
+## Privacy
 
 - Adjust privacy settings to control who sees your posts.
 - Avoid sharing personal information like your address or phone number.
 
 ---
 
-### Security
+{{<slide template="section">}}
+
+## Security
 
 - Use strong, unique passwords
 - Be cautious of suspicious links and messages.
 
 ---
 
-### Oversharing
+{{<slide template="section">}}
+
+## Oversharing
 
 - Think before you post: is it necessary and appropriate?
 - Avoid posting sensitive information that could be misused.
 
 ---
 
-### Respectful Interaction
+{{<slide template="section">}}
+
+## Respectful Interaction
 
 - Treat others with respect and kindness.
 - Report and block inappropriate content or users.
@@ -118,6 +129,8 @@ Social Media
 {{% /speaker-notes %}}
 
 ---
+
+{{<slide template="activity">}}
 
 ### Activity
 

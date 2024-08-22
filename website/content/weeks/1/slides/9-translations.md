@@ -5,11 +5,13 @@ description = 'Translate text between languages'
 weight = 9
 +++
 
-{{< slide template="topic" >}}
+{{< slide template="section" >}}
 
 # 💬 Translate
 
 ---
+
+{{<slide template="objectives">}}
 
 ### 🎯 Learning objectives
 
@@ -24,9 +26,13 @@ GS1 Trainees understand the main UI iconography
 
 ---
 
+{{<slide template="section">}}
+
 ## Copy button
 
 ---
+
+{{<slide template="activity">}}
 
 ### Activity
 
@@ -37,10 +43,14 @@ GS1 Trainees understand the main UI iconography
 
 ---
 
+{{<slide template="activity">}}
+
 ### Activity
 
 Have a chat with another person in the group in a language of your choice.
 
 ---
+
+{{<slide template="activity">}}
 
 ### Activity - Let’s use the camera

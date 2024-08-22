@@ -1,6 +1,6 @@
 +++
 type="Slides1Partial"
-title = 'Section: Overview'
+title = 'Topic: Overview'
 description = 'Look ahead to see what we will cover on this course'
 weight = 2
 +++
@@ -10,6 +10,8 @@ weight = 2
 # 🗺️ Overview
 
 ---
+
+{{< slide template="objectives" >}}
 
 ## Day-to-day Digital Skills Course
 

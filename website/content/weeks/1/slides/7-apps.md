@@ -1,11 +1,11 @@
 +++
 type="Slides1Partial"
-title = 'Section: Apps'
+title = 'Topic: Apps'
 description = 'Using apps and social media'
 weight = 7
 +++
 
-{{< slide template="topic" >}}
+{{< slide template="section" >}}
 
 # 📱 Apps
 
@@ -22,6 +22,7 @@ update 2 apps with 100% accuracy.
 Remove 1 app
 
 {{% /speaker-notes %}}
+{{<slide template="objectives">}}
 
 ### 🎯 Learning objectives
 
@@ -37,9 +38,9 @@ Remove 1 app
 
 ---
 
-## App Stores (iOS and Android)
+{{<slide template="section">}}
 
----
+## App Stores (iOS and Android)
 
 {{% speaker-notes %}}
 iOS: App store
@@ -60,12 +61,16 @@ Your camera “reads” a QR and opens a link
 
 ---
 
+{{<slide template="activity">}}
+
 ### Activity
 
 Scan QR code
 Install Google Translate
 
 ---
+
+{{<slide template="activity">}}
 
 ### Activity
 

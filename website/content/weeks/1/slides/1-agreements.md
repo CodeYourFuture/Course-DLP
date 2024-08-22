@@ -1,7 +1,7 @@
 +++
 type="Slides1Partial"
 title = 'Slides'
-description = 'Section: Agreements' 
+description = 'Topic: Agreements' 
 weight = 1
 +++
 
@@ -129,6 +129,8 @@ How do we know what other people’s boundaries are?
 {{% /speaker-notes %}}
 
 ---
+
+{{<slide template="topic">}}
 
 # ⛑️ Trainees Agreement
 

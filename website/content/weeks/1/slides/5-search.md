@@ -1,6 +1,6 @@
 +++
 type="Slides1Partial"
-title = 'Section: Search'
+title = 'Topic: Search'
 description = ''
 weight = 5
 +++
@@ -12,6 +12,10 @@ weight = 5
 ---
 
 The internet is like a giant network of connected computers and devices. It helps people from all around the world to share information and talk to each other even if they're far apart. It's like a big web that links everything together.
+
+---
+
+{{< slide template="objectives" >}}
 
 ### 🎯 Learning objectives
 
@@ -27,7 +31,9 @@ GS1 Trainees understand the main UI iconography
 
 ---
 
-# 🔍 Search Engines
+{{<slide template="section">}}
+
+# 🔍 Search
 
 ---
 
@@ -59,6 +65,8 @@ Using a search engine of your choice, enter your search query into the search ba
 
 ---
 
+{{<slide template="activity">}}
+
 ### Activity
 
 Google search a recipe for banana bread
@@ -67,11 +75,15 @@ Google search a recipe for banana bread
 
 ---
 
+{{<slide template="activity">}}
+
 ### Activity
 
 Add Google Search widget to your screen
 
 ---
+
+{{<slide template="activity">}}
 
 ### Activity - SELF HELP!
 
@@ -89,6 +101,8 @@ AI’s response in less than 10 seconds.
 You MUST always read and check the response!
 
 ---
+
+{{<slide template="activity">}}
 
 ### Activity - Try ChatGPT
 

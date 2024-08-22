@@ -1,6 +1,6 @@
 +++
 type="Slides1Partial"
-title = 'Section: Break'
+title = 'Topic: Break'
 description = 'Time to relax and recharge'
 weight = 6
 +++

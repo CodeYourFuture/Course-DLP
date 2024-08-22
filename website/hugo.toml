@@ -1,6 +1,7 @@
 baseURL = 'https://digital-literacy.codeyourfuture.io/' # update with your domain
 title = 'Day to Day Skills'  #update with your site name
 
+
  # mount all the shared CYF brand assets, content, etc, from /curriculum
 [module]
   [[module.imports]]
@@ -32,11 +33,13 @@ isHTML = true
 theme = ["github.com/CodeYourFuture/curriculum/org-cyf-theme", "github.com/dzello/reveal-hugo"]
 
 [params]
+repo = "https://github.com/CodeYourFuture/Course-DLP/"
+root="Course-DLP"
   [params.logo]
     src = '/site-logo-small.svg'
     top = '20px'
     left = '20px'
-    width = '75px'
+    width = '50px'
   [params.appearance]
     font = 'Raleway'
     font_size = 5
@@ -72,18 +75,20 @@ theme = ["github.com/CodeYourFuture/curriculum/org-cyf-theme", "github.com/dzell
     [reveal_hugo.custom_theme_options]
       targetPath = "css/reveal-theme.css"
       enableSourceMap = true
-    
-    [params.reveal_hugo.templates.section]
-      background-color="var(--theme-color--pop)"
-      background-image="/bottom-chevron.svg"
-      transition = "zoom"
     [params.reveal_hugo.templates.topic]
      background-color="hsla(330, 74%, 49%, 0.95)"
+     background="linear-gradient(90deg, hsla(330, 74%, 49%, 0.95) 1%, hsla(258, 61%, 28%, 0.99))"
       transition = "zoom"
     [params.reveal.hugo.templates.objectives]
       background-color="hsl(250, 55%, 96%)"
+      background-image="/bottom-chevron.svg"
       transition="fade"
+    [params.reveal_hugo.templates.section]
+    # purple
+      background-color="hsla(258, 61%, 28%, 0.99)"
+      background-image="/white-chevron.svg"
+      transition = "fade"
     [params.reveal_hugo.templates.activity]
-      background-color="hsla(330, 74%, 49%, 0.95)"
+      background-color="hsl(250, 55%, 96%)"
       transition = "fade-in slide-out"
     

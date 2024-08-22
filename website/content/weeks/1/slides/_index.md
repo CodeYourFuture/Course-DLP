@@ -45,6 +45,8 @@ Please ask our volunteers for help.
 
 ---
 
+{{<slide template="topic">}}
+
 # Agenda
 
 ---
@@ -70,7 +72,7 @@ Please ask our volunteers for help.
 
 {{%fragment%}}
 
-1. 🚺 Key symbols and icons
+1. 🚺 Symbols and icons
 1. 🔍 Browsing and searching
    {{%/fragment%}}
    {{%fragment%}}

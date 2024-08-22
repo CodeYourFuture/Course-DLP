@@ -5,7 +5,7 @@ description = 'Look ahead to see what we will cover next week'
 weight = 10
 +++
 
-{{< slide template="topic" >}}
+{{< slide template="section" >}}
 
 ### What we’ll learn next week
 

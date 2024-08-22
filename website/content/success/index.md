@@ -1,8 +1,10 @@
 +++
-type="page"
+type="Success"
 title = 'success'
-layout = 'success'
+layout="success"
+description = 'How do we know we have completed this course?'
 emoji= '✅'
+menu=["next steps"]
 menu_level = ['module']
 weight = 4
 +++

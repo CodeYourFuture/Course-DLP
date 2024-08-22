@@ -1,23 +1,35 @@
 @import "reveal-js/dist/theme/template/mixins";
 @import "reveal-js/dist/theme/template/settings";
 
-$backgroundColor: hsla(258, 61%, 28%, 0.99);
+:root {
+  --theme-color--brand: hsla(330, 74%, 49%, 0.95);
+  --theme-color--brand-shade: hsla(258, 61%, 28%, 0.2);
+  --theme-color--pop: hsla(258, 61%, 28%, 0.99);
+  --theme-color--paper: hsla(250, 55%, 98%, 0.99);
+  --theme-color--ink: hsla(258, 88%, 27%, 0.95);
+}
 
-$mainColor: hsl(250, 55%, 96%);
-$headingColor: hsla(330, 74%, 49%, 0.95);
+$backgroundColor: var(--theme-color--paper);
+$mainColor: var(--theme-color--ink);
+$headingColor: var(--theme-color--brand);
 
-$mainFontSize: 64px;
+$mainFontSize: 48px;
 $mainFont: "Raleway", system-ui, sans-serif;
 $headingFont: "Raleway", system-ui, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: none;
 $headingFontWeight: 700;
-$linkColor: hsla(330, 74%, 49%, 0.95);
+$linkColor: hsla(
+  330,
+  74%,
+  49%,
+  0.95
+); // has to be a primitive as this module uses sass functions somewhere
 
 $heading1Size: 120px;
 $heading2Size: 80px;
-$heading3Size: 32px;
+$heading3Size: 48px;
 $heading4Size: 24px;
 
 @import "reveal-js/dist/theme/template/theme";
@@ -30,8 +42,12 @@ section.has-light-background {
   h4,
   h5,
   h6 {
-    color: hsla(258, 88%, 27%, 0.95);
+    color: var(--theme-color--brand);
   }
+}
+.reveal-viewport {
+  border-left: 10px solid var(--theme-color--pop);
+  border-right: 10px solid var(--theme-color--pop);
 }
 
 .reveal pre {
@@ -39,7 +55,7 @@ section.has-light-background {
 }
 
 .reveal section {
-  h2 {
+  > * {
     text-align: left;
   }
   ol,
@@ -47,5 +63,48 @@ section.has-light-background {
     display: block;
     text-align: left;
     margin: 0 auto auto 0;
+  }
+}
+// I have set a few premade templates deduced from the slides
+// they are defined in hugo.toml
+// it seems like you must set the bg in hugo and the text here??
+// section: purple bg pink heading text chevron detail
+// objectives: white background pink border chevron detail
+// topic: pink bg white text
+
+.reveal [data-template="section"] {
+  > * {
+    color: var(--theme-color--paper);
+    text-align: center;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--theme-color--brand);
+  }
+}
+.reveal [data-template="objectives"] {
+  border: 30px solid var(--theme-color--pop);
+}
+.reveal [data-template="topic"] {
+  > * {
+    color: var(--theme-color--paper);
+    text-align: center;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--theme-color--pop);
+  }
+}
+[data-template="activity"] {
+  border: 30px solid var(--theme-color--pop);
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--theme-color--pop);
   }
 }

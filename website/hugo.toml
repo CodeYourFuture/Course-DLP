@@ -72,3 +72,18 @@ theme = ["github.com/CodeYourFuture/curriculum/org-cyf-theme", "github.com/dzell
     [reveal_hugo.custom_theme_options]
       targetPath = "css/reveal-theme.css"
       enableSourceMap = true
+    
+    [params.reveal_hugo.templates.section]
+      background-color="var(--theme-color--pop)"
+      background-image="/bottom-chevron.svg"
+      transition = "zoom"
+    [params.reveal_hugo.templates.topic]
+     background-color="hsla(330, 74%, 49%, 0.95)"
+      transition = "zoom"
+    [params.reveal.hugo.templates.objectives]
+      background-color="hsl(250, 55%, 96%)"
+      transition="fade"
+    [params.reveal_hugo.templates.activity]
+      background-color="hsla(330, 74%, 49%, 0.95)"
+      transition = "fade-in slide-out"
+    

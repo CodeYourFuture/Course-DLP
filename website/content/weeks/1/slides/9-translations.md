@@ -1,5 +1,5 @@
 +++
-type="page"
+type="object"
 title = 'Section: Translate'
 description = 'Translate text between languages'
 weight = 9

@@ -1,5 +1,5 @@
 +++
-type="page"
+type="object"
 title = 'Section: Wrap-up'
 description = 'Look ahead to see what we will cover next week'
 weight = 10

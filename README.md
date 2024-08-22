@@ -47,3 +47,9 @@ For each module you import, add a `replace` directive to your `go.mod` file - if
 ### Vendoring
 
 If you want to _see_ the files you just mounted into your virtual filesystem, run `hugo mod vendor` to copy the files into your site. This is useful for debugging and clarity, but not necessary for development.
+
+---
+
+The images of people contained in this repository are not open source or public domain and are _not_ licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. They are pictures of real people we know and you may not use them without permission.
+
+The rest of the content is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

@@ -1,5 +1,5 @@
 +++
-type="page"
+type="object"
 title = 'Entry Assessment'
 weight = 3
 

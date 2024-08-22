@@ -1,5 +1,5 @@
 +++
-type="page"
+type="object"
 title = 'Section: Apps'
 description = 'Using apps and social media'
 weight = 7

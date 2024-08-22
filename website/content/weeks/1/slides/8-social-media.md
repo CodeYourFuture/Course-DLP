@@ -1,5 +1,5 @@
 +++
-type="page"
+type="object"
 title = 'Section: Social Media'
 description = 'Learning about social media'
 weight = 8

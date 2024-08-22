@@ -1,11 +1,11 @@
 +++
-type="page"
+type="object"
 title = 'Slides'
 description = 'Section: Agreements' 
 weight = 1
 +++
 
-{{< slide template="topic" >}}
+{{<slide template="topic">}}
 
 # ⛑️ Community Safety
 

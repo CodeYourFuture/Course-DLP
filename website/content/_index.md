@@ -6,4 +6,5 @@ map:
   - course
   - next steps
 description: Day to day digital skills
+emoji: 📱
 ---

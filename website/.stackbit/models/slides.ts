@@ -1,6 +1,6 @@
-import {Model} from "@stackbit/types";
+import {ObjectModel, PageModel, Model} from "@stackbit/types";
 
-export const Slides1: Model = {
+export const Slides1: PageModel = {
   name: "Slides1",
   type: "page",
   urlPath: "/weeks/1/slides/",
@@ -27,7 +27,7 @@ export const Slides1: Model = {
   ],
 };
 
-export const Slides1Partial: Model = {
+export const Slides1Partial: ObjectModel = {
   name: "Slides1Partial",
   type: "object",
   fields: [

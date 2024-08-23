@@ -1,0 +1,46 @@
+{
+    "model": "Prep",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Prep",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Prep"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "type": null,
+                "title": "prep",
+                "description": "This work must be done to prepare for this course",
+                "emoji": "🧑🏾‍💻",
+                "weight": 1,
+                "menu": [
+                    "start here"
+                ],
+                "menu_level": [
+                    "module"
+                ],
+                "blocks": [
+                    {
+                        "name": "Coming soon",
+                        "src": "https://github.com/CodeYourFuture/Course-DLP/issues/1",
+                        "caption": null,
+                        "time": null
+                    },
+                    {
+                        "name": "Coming soon",
+                        "src": "https://github.com/CodeYourFuture/Course-DLP/issues/2",
+                        "caption": null,
+                        "time": null
+                    }
+                ],
+                "markdown_content": ""
+            },
+            "thumbnail": "images/prep-prep-2436.png"
+        }
+    ]
+}

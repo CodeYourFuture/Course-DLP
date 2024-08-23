@@ -1,4 +1,5 @@
 import {StackbitConfig} from "@stackbit/sdk";
+import {Base} from "./models/base";
 import {Home} from "./models/home";
 import {Prep, Prep1} from "./models/prep";
 import {Success, Success1} from "./models/success";
@@ -8,6 +9,7 @@ import {Slides1, Slides1Partial} from "./models/slides";
 import {Coursework1} from "./models/coursework";
 
 export const models: StackbitConfig["models"] = {
+  Base,
   Home,
   Prep,
   Success,

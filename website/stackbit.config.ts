@@ -1,7 +1,7 @@
 // stackbit.config.ts
 import {defineStackbitConfig} from "@stackbit/types";
 import {GitContentSource} from "@stackbit/cms-git";
-import {models} from "./stackbit/models/";
+import {models} from "./.stackbit/models/";
 
 export default defineStackbitConfig({
   stackbitVersion: "~0.6.0",
@@ -12,6 +12,7 @@ export default defineStackbitConfig({
       rootPath: __dirname,
       contentDirs: ["content"],
       models: [
+        models.Base,
         models.Home,
         models.Prep,
         models.Success,
